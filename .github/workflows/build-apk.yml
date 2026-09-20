@@ -1,4 +1,4 @@
-name:name: Build Max AI APK
+name: Build Max AI APK
 
 on:
   workflow_dispatch:
